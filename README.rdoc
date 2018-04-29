@@ -22,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
+https://blog.codeplace.com/building-an-admin-panel-for-your-rails-app-d672159eb26e
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
